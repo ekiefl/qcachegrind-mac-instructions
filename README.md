@@ -18,7 +18,7 @@ No idea what these guys are about, but they have a pre-compiled qcachegrind app 
 wget https://repo.seidengroup.com/cachegrind/macos/amd64/QCachegrind-20201208.app.zip
 ```
 
-I found this on [their website](https://www.seidengroup.com/profiling-tools-for-php-qcachegrind-download/). Hopefully they reliably host and update it :)
+I found this on [their website](https://www.seidengroup.com/profiling-tools-for-php-qcachegrind-download/). Hopefully they reliably host and update it. If they do not, in this repo is a .zip of the app, which works on at least 10.14.6 (18G103).
 
 # Option #3: docker-kcachegrind
 
